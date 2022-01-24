@@ -1,3 +1,6 @@
+# Euler Problem 012
+# Solved 16 January 2021
+
 # Highly divisible triangular number
 
 import math
